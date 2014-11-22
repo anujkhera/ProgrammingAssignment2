@@ -56,3 +56,4 @@ m = makeCacheMatrix(x)
 m$get()
 
 cacheSolve(m)
+# Modified by myself @local machine
